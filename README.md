@@ -1,7 +1,7 @@
 ### Hi, you've reached my Git!
 
 ### About me:
-I'm a senior Full Stack engineer with 7 years experience.<br>
+I'm a senior Full Stack engineer with 9 years experience.<br>
 I love exploring new languages and technologies and enjoy automating and scripts to make life easier.<br>
 Working fast, being goal oriented and thinking with a big head are my hallmarks.<br>
 
